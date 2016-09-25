@@ -1,0 +1,2 @@
+Ik ben jacob.
+Dit gaat erom hoe ik dit bestand aan git versiebeheer toevoeg.
